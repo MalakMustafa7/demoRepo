@@ -1,5 +1,9 @@
 line1
 line 2
 line 3
+<<<<<<< HEAD
 "feature line 3" 
 "feature line09" 
+=======
+"line4" 
+>>>>>>> 2b061a4 (commit03)
